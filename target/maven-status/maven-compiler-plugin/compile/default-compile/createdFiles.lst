@@ -1,0 +1,5 @@
+META-INF/maven/com.sridhar/kafka/pom.xml
+META-INF/maven/com.sridhar/kafka/pom.properties
+kafka/Kafka_Consumer.class
+kafka/Kafka_Producer.class
+kafka/Kafka_Consumer2.class
